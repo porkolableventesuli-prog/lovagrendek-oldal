@@ -1,0 +1,22 @@
+.title {
+    border: 3px solid black;
+    width: 10cm;
+    background-color: darkgoldenrod;
+    margin-top: 2cm;   
+    border-radius: 10px; 
+}
+.pres1 {
+    margin-top: 1cm;
+    background-color: rgb(138, 192, 13);
+    margin-left: 1cm;
+    width: 20cm;
+    border: solid black 3px;
+}
+.jog {
+    background-color: rgb(218, 164, 64);
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 7cm;
+    height: 3cm;
+}
+    
