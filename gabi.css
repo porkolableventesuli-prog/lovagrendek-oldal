@@ -5,13 +5,15 @@
     margin-top: 2cm;   
     border-radius: 10px; 
 }
+
 .pres1 {
     margin-top: 1cm;
-    background-color: rgb(138, 192, 13);
+    background-color: rgb(192, 120, 13);
     margin-left: 1cm;
     width: 20cm;
     border: solid black 3px;
 }
+
 .jog {
     background-color: rgb(218, 164, 64);
     text-align: left;
