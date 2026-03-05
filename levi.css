@@ -54,3 +54,11 @@ p {
   line-height: 1.6;
   color: #333;
 }
+
+.pres-container {
+    display: flex;
+}
+
+.pres1 {
+    flex: 1;
+}
