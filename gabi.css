@@ -3,10 +3,11 @@
     width: 10cm;
     background-color: darkgoldenrod;
     margin-top: 2cm;   
-    border-radius: 10px; 
+    border-radius: 10px;
+    box-shadow: 20px 20px rgba(10, 20, 80, 0.35);
 }
 
-.pres1 {
+.pres {
     margin-top: 1cm;
     background-color: rgb(192, 120, 13);
     margin-left: 1cm;
@@ -15,11 +16,12 @@
     margin-right: 1cm;
 }
 
-.jog {
-    background-color: rgb(218, 164, 64);
-    text-align: left;
+footer {
+    background: rgba(10, 5, 0, 0.8);
+    color: goldenrod;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
     margin-top: 7cm;
     height: 3cm;
-}
-    
+} 
